@@ -88,3 +88,18 @@ Obs.: bellow is only for reference, check the above link for updates.
 * **Zillya:** *Undetected*
 * **ZoneAlarm by Check Point:** *Undetected*
 * **Zoner:** *Undetected*
+* **Alibaba:** *Unable to process file type*
+* **Avast-Mobile:** *Unable to process file type*
+* **BitDefenderFalx:** *Unable to process file type*
+* **CrowdStrike Falcon:** *Unable to process file type*
+* **Cybereason:** *Unable to process file type*
+* **Cylance:** *Unable to process file type*
+* **Elastic:** *Unable to process file typev
+* **Palo Alto Networks:** *Unable to process file type*
+* **SecureAge:** *Unable to process file type*
+* **SentinelOne (Static ML):** *Unable to process file type*
+* **Symantec Mobile Insight:** *Unable to process file type*
+* **TEHTRIS:** *Unable to process file type*
+* **Trapmine:** *Unable to process file type*
+* **Trustlook:** *Unable to process file type*
+* **Webroot:** *Unable to process file type*
