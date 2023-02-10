@@ -24,6 +24,8 @@ Allow to use native PHP functions and OS commands.
 # Virus Total Detection
 https://www.virustotal.com/gui/file/74a4fb042e5802e1621f27641c497a29f68fcf32f4e37cfaef08190d67246daf/detection
 
+Detection: 01 in 60.
+
 Obs.: bellow is only for reference, check the above link for updates.
 
 * **Tencent:** *BK.YDWebShell.PHP.Smalleval.ek*
