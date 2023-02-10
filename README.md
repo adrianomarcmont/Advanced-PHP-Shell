@@ -3,9 +3,9 @@ Allow to use native PHP functions and OS commands
 
 # Usage:
 
-* f=  PHP Function
-* p1= First parameter
-* p2= Second parameter
+* f=  PHP function.
+* p1= First parameter.
+* p2= Second parameter.
 
 # Example:
 * advsh.php?f=getcwd
