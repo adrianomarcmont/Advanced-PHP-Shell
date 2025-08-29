@@ -22,13 +22,18 @@ Allow to use native PHP functions and OS commands.
 
 
 # Virus Total Detection
-https://www.virustotal.com/gui/file/74a4fb042e5802e1621f27641c497a29f68fcf32f4e37cfaef08190d67246daf/detection
+v2
+https://www.virustotal.com/gui/file/a39552138e721e8b477f009bdcc2be7c0c528aa08f1e61802f5b3422355e6966?nocache=1
+Detection: 00 in 60.
 
+v1
+https://www.virustotal.com/gui/file/74a4fb042e5802e1621f27641c497a29f68fcf32f4e37cfaef08190d67246daf/detection
 Detection: 01 in 60.
 
 Obs.: bellow is only for reference, check the above link for updates.
 
-* **Tencent:** *BK.YDWebShell.PHP.Smalleval.ek*
+* v2 => **Tencent:** *Undetected*
+* v1 => **Tencent:** *BK.YDWebShell.PHP.Smalleval.ek*
 * **Acronis (Static ML):** *Undetected*
 * **AhnLab-V3:** *Undetected*
 * **ALYac:** *Undetected*
